@@ -1,0 +1,24 @@
+.container-foo {
+  background-color: #172337;
+  color: #fff;
+  width: 100%;
+
+  box-sizing: border-box;
+  clear: both;
+}
+
+.heading {
+  color: #878787;
+  font-size: 12px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.list Box {
+  text-align: left;
+}
+
+List {
+  border-bottom: none;
+}
